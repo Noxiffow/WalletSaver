@@ -1,0 +1,27 @@
+# Python (Backend)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+*.db
+*.sqlite3
+
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Otros
+.vscode/
+*.log
+node_modules/
