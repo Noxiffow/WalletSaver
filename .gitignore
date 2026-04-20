@@ -25,3 +25,4 @@ env/
 .vscode/
 *.log
 node_modules/
+.gitnexus
